@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Other files and folders
+.settings/
+*.config
+/debug
